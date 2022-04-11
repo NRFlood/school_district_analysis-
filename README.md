@@ -6,7 +6,7 @@ The purpose of this project was to assist Maria in auditing the math and reading
 
 ## School District Analysis Results
 
-By using Pandas I was able to generate a new data frame that would allow me to rerun the math and reading scores for Thomas High School, without the 9th grade scores included. This in turn impacted the average math and reading scores for the district overall as well as the scores for the various categories that Thomas High School is apart of (School type, School size, School spending). 
+By using Pandas I was able to generate a new data frame that would allow me to rerun the math and reading scores for Thomas High School, without the 9th grade scores included. This in turn impacted the average math and reading scores for the district overall as well as the scores for the various categories that Thomas High School is a part of (School type, School size, School spending). 
 
 **How is the district summary affected?**
 
@@ -18,7 +18,7 @@ By using Pandas I was able to generate a new data frame that would allow me to r
 
 **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
-*Relatvie to other schools Thomas High School still remains at #2 overall, however the decline in the percentage of students passing math and reading, as well as the decline in the average math scores now puts them only 3 basis points above Griffin High School overall, whereas before they had been 35 basis points ahead of Griffin High School.*
+*Relative to other schools Thomas High School still remains at #2 overall, however the decline in the percentage of students passing math and reading, as well as the decline in the average math scores now puts them only 3 basis points above Griffin High School overall, whereas before they had been 35 basis points ahead of Griffin High School.*
 
 **How does replacing the ninth-grade scores affect the following:**
 
@@ -63,4 +63,8 @@ By using Pandas I was able to generate a new data frame that would allow me to r
    **ADJUSTED**
     
 ![AFTER](https://github.com/NRFlood/school_district_analysis-/blob/main/School%20Type%20(After).png)
- 
+
+## School District Summary
+
+After changing the data for the math and reading scores in the ninth grade class at Thomas High School a couple of key pieces of analysis can be concluded.  The most notable are the decline in the percentage of students passing math, the percentage passing reading, and the lower average math scores at Thomas High School.  This in turn negatively impacted the district level scores in these three areas as well.  It is also worth mentioning that Charter schools, MEDIUM sized schools, and schools that spend $631-$645 per student saw a reduction in these key areas as well.
+       
