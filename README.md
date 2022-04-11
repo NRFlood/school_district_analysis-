@@ -27,7 +27,12 @@ By using Pandas I was able to generate a new data frame that would allow me to r
        *The math and reading scores at other schools are not impacted in anyway by the corrections that were made to the ninth grade data at Thomas High School, nor were the scores of the 10th, 11th, and 12th graders at Thomas High School.  When slicing the data by grade the district level scores at the ninth grade level are the only ones that should be impacted by the change at Thomas High School.* 
    
    * **Scores by school spending**
-       *
+       
+       *Thomas High School is part of the per student spending range of $631-645, so this is the only range impacted by the change in data.  The images below showcase the changes in that spending range.
+
+![BEFORE](https://github.com/NRFlood/school_district_analysis-/blob/main/Spending%20Range%20(Before).png)
+
+![AFTER](https://github.com/NRFlood/school_district_analysis-/blob/main/Spending%20Range%20(After).png)
 
    * **Scores by school size**
 
