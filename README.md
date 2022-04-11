@@ -18,18 +18,19 @@ By using Pandas I was able to generate a new data frame that would allow me to r
 
 **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
-* Relatvie to other schools Thomas High School still remains at #2 overall, however the decline in math scores no puts them below Griffin High School 
+*Relatvie to other schools Thomas High School still remains at #2 overall, however the decline in the percentage of students passing math and reading, as well as the decline in the average math scores now puts them only 3 basis points above Griffin High School overall, whereas before they had been 35 basis points ahead of Griffin High School.*
 
+**How does replacing the ninth-grade scores affect the following:**
 
+   * **Math and reading scores by grade**
+   
+       *The math and reading scores at other schools are not impacted in anyway by the corrections that were made to the ninth grade data at Thomas High School, nor were the scores of the 10th, 11th, and 12th graders at Thomas High School.  When slicing the data by grade the district level scores at the ninth grade level are the only ones that should be impacted by the change at Thomas High School.* 
+   
+   * **Scores by school spending**
+       *
 
-*How does replacing the ninth-grade scores affect the following:*
+   * **Scores by school size**
 
-   -Math and reading scores by grade*
-
-   -Scores by school spending*
-
-   -Scores by school size*
-
-   -Scores by school type*
+   * **Scores by school type**
 
  
