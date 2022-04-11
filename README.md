@@ -28,13 +28,20 @@ By using Pandas I was able to generate a new data frame that would allow me to r
    
    * **Scores by school spending**
        
-       *Thomas High School is part of the per student spending range of $631-645, so this is the only range impacted by the change in data.  The images below showcase the changes in that spending range.
+       *Thomas High School is part of the per student spending range of $631-645, so this is the only range impacted by the change in data.  The images below showcase the changes in that spending range.*
 
 ![BEFORE](https://github.com/NRFlood/school_district_analysis-/blob/main/Spending%20Range%20(Before).png)
 
 ![AFTER](https://github.com/NRFlood/school_district_analysis-/blob/main/Spending%20Range%20(After).png)
 
    * **Scores by school size**
+   
+       *Thomas High School is part of the MEDIUM school size range, so this is the only range impacted by the change in data.  The images below showcase the changes in that spending range.*
+
+![BEFORE](https://github.com/NRFlood/school_district_analysis-/blob/main/School%20Size%20Range%20(Before).png)
+
+![AFTER](https://github.com/NRFlood/school_district_analysis-/blob/main/School%20Size%20Range%20(After).png)
+
 
    * **Scores by school type**
 
