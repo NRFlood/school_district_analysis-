@@ -10,11 +10,11 @@ By using Pandas I was able to generate a new data frame that would allow me to r
 
 **How is the district summary affected?**
 
-*The percentage of students passing math within the district declined by 22 basis points (74.98% to 74.76%), and the percentage of students passing reading declined by 15 basis points (85.81% to 85.66%) after removing the Thomas High School ninth graders'.  The average math score in the district declined by 6 basis points(78.99% to 78.93%) and the average reading score declined by 2 basis points (81.88% to 81.86%) after making the same adjustments.*   
+*The percentage of students passing math within the district declined by 22 basis points (74.98% to 74.76%), and the percentage of students passing reading declined by 15 basis points (85.81% to 85.66%) after removing the Thomas High School ninth graders'.  As a result the percentage of students passing both math and reading declined by 31 basis points (65.17% to 64.86%) overall.  In addition the average math score in the district declined by 6 basis points(78.99% to 78.93%) and the average reading score declined by 2 basis points (81.88% to 81.86%) after making the same adjustments.*   
     
 **How is the school summary affected?**
 
-*The percentage of students passing math at Thomas High School declined by 8 basis points (93.27% to 93.19%), and the percentage of students passing reading declined by 29 basis points after removing the scores from the ninth grade class.  The average math score at Thomas High School declined by 7 basis points (83.42% to 83.35%), and the average reading score improved by 5 basis points (83.85% to 83.90%) after making the same adjustment.* 
+*The percentage of students passing math at Thomas High School declined by 8 basis points (93.27% to 93.19%), and the percentage of students passing reading declined by 29 basis points (97.31% to 97.02%) after removing the scores from the ninth grade class.  As a result the percentage of students passing both math and reading at Thomas High School declined 32 basis points (90.95% to 90.63%). In addition the average math score at Thomas High School declined by 7 basis points (83.42% to 83.35%), and the average reading score improved by 5 basis points (83.85% to 83.90%) after making the same adjustments.* 
 
 **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
