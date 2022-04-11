@@ -30,7 +30,11 @@ By using Pandas I was able to generate a new data frame that would allow me to r
        
        *Thomas High School is part of the per student spending range of $631-645, so this is the only range impacted by the change in data.  The images below showcase the changes in that spending range.*
 
+   **ORIGINAL**
+
 ![BEFORE](https://github.com/NRFlood/school_district_analysis-/blob/main/Spending%20Range%20(Before).png)
+
+   **ADJUSTED**
 
 ![AFTER](https://github.com/NRFlood/school_district_analysis-/blob/main/Spending%20Range%20(After).png)
 
@@ -38,11 +42,25 @@ By using Pandas I was able to generate a new data frame that would allow me to r
    
        *Thomas High School is part of the MEDIUM school size range, so this is the only range impacted by the change in data.  The images below showcase the changes in that spending range.*
 
+   **ORIGINAL**
+
 ![BEFORE](https://github.com/NRFlood/school_district_analysis-/blob/main/School%20Size%20Range%20(Before).png)
+
+
+   **ADJUSTED**
 
 ![AFTER](https://github.com/NRFlood/school_district_analysis-/blob/main/School%20Size%20Range%20(After).png)
 
 
    * **Scores by school type**
 
+       *Thomas High School is Charter school, so this is the only school type impacted by the change in data.  The images below showcase the changes in that spending range.*
+
+   **ORIGINAL**
+
+![BEFORE](https://github.com/NRFlood/school_district_analysis-/blob/main/School%20Type%20(Before).png)
+
+   **ADJUSTED**
+    
+![AFTER](https://github.com/NRFlood/school_district_analysis-/blob/main/School%20Type%20(After).png)
  
