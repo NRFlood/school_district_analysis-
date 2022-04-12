@@ -40,7 +40,7 @@ By using Pandas I was able to generate a new data frame that would allow me to r
 
    * **Scores by school size**
    
-       *Thomas High School is part of the MEDIUM school size range, so this is the only range impacted by the change in data.  The images below showcase the changes in that spending range.*
+       *Thomas High School is part of the MEDIUM school size range, so this is the only range impacted by the change in data.  The images below showcase the changes in that size range.*
 
    **ORIGINAL**
 
@@ -54,7 +54,7 @@ By using Pandas I was able to generate a new data frame that would allow me to r
 
    * **Scores by school type**
 
-       *Thomas High School is Charter school, so this is the only school type impacted by the change in data.  The images below showcase the changes in that spending range.*
+       *Thomas High School is Charter school, so this is the only school type impacted by the change in data.  The images below showcase the changes in that school type.*
 
    **ORIGINAL**
 
